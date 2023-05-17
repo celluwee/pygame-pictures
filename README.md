@@ -1,2 +1,2 @@
-# new
-new empty repo
+# pygame
+pygame pictures
